@@ -1,0 +1,12 @@
+{
+	"name": "reddit-user-analyse",
+	"description": "Analysing Reddit user data.",
+	"version": "0.0.1",
+	"private": true,
+	"author": "Mickael van der Beek (https://github.com/Mickael-van-der-Beek)",
+	"dependencies": {
+		"request": "latest",
+		"async": "latest",
+		"csv": "latest"
+	}
+}
